@@ -1,0 +1,17 @@
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\bin\Debug\net6.0\ReosCase.DataAccess.deps.json
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\bin\Debug\net6.0\ReosCase.DataAccess.runtimeconfig.json
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\bin\Debug\net6.0\ReosCase.DataAccess.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\bin\Debug\net6.0\ReosCase.DataAccess.pdb
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\bin\Debug\net6.0\ReosCase.Entities.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\bin\Debug\net6.0\ReosCase.Entities.pdb
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ReosCase.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ReosCase.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ReosCase.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ReosCase.DataAccess.AssemblyInfo.cs
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ReosCase.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ReosCase.DataAccess.csproj.CopyComplete
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ReosCase.DataAccess.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\refint\ReosCase.DataAccess.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ReosCase.DataAccess.pdb
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ReosCase.DataAccess.genruntimeconfig.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.DataAccess\obj\Debug\net6.0\ref\ReosCase.DataAccess.dll

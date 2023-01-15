@@ -1,0 +1,17 @@
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\bin\Debug\net6.0\ReosCase.Business.deps.json
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\bin\Debug\net6.0\ReosCase.Business.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\bin\Debug\net6.0\ReosCase.Business.pdb
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\bin\Debug\net6.0\ReosCase.DataAccess.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\bin\Debug\net6.0\ReosCase.Entities.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\bin\Debug\net6.0\ReosCase.DataAccess.pdb
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\bin\Debug\net6.0\ReosCase.Entities.pdb
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\ReosCase.Business.csproj.AssemblyReference.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\ReosCase.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\ReosCase.Business.AssemblyInfoInputs.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\ReosCase.Business.AssemblyInfo.cs
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\ReosCase.Business.csproj.CoreCompileInputs.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\ReosCase.Business.csproj.CopyComplete
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\ReosCase.Business.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\refint\ReosCase.Business.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\ReosCase.Business.pdb
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Business\obj\Debug\net6.0\ref\ReosCase.Business.dll

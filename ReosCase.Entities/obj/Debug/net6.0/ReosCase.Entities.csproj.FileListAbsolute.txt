@@ -1,0 +1,12 @@
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\bin\Debug\net6.0\ReosCase.Entities.deps.json
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\bin\Debug\net6.0\ReosCase.Entities.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\bin\Debug\net6.0\ReosCase.Entities.pdb
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\obj\Debug\net6.0\ReosCase.Entities.csproj.AssemblyReference.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\obj\Debug\net6.0\ReosCase.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\obj\Debug\net6.0\ReosCase.Entities.AssemblyInfoInputs.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\obj\Debug\net6.0\ReosCase.Entities.AssemblyInfo.cs
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\obj\Debug\net6.0\ReosCase.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\obj\Debug\net6.0\ReosCase.Entities.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\obj\Debug\net6.0\refint\ReosCase.Entities.dll
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\obj\Debug\net6.0\ReosCase.Entities.pdb
+C:\Users\ercan\source\repos\ReosCase\ReosCase.Entities\obj\Debug\net6.0\ref\ReosCase.Entities.dll
